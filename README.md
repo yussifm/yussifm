@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile developer
 ------------------------
 
-I am a student (BSc Computer Science) self-taught developer who likes learning and improving my skills every day. I have worked on flutter and JavaScript-based projects professionally
+I am a student (BSc Computer Science) self-taught developer, Flutter, Android, Kotlin, Javascript and Python
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [HomePage](http://https://ymoded.herokuapp.com/)
