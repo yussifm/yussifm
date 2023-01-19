@@ -9,7 +9,7 @@ I am a student (BSc Computer Science) self-taught developer, Flutter, Android, K
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [HomePage](http://https://ymoded.herokuapp.com/)
 * ✉️  You can contact me at [yussifm13@gmail.com](mailto:yussifm13@gmail.com)
-* 🧠  I'm learning AI and ML with Python, Mobile development with flutter , System programming, Data-STructures And Algorithms
+* 🧠  I'm learning AI and ML with Python, Mobile development with Android-Ktolin and flutter-Dart , System programming, Data-STructures And Algorithms
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love making games too
 
