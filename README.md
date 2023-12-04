@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Yussif
 =======================================================================================================================================
 
-Web and Mobile developer
+Just writting Codes
 ------------------------
 
 I am a student (BSc Computer Science) self-taught developer, and others 
