@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Just writting Codes
 ------------------------
-
-I am a student (BSc Computer Science) self-taught developer, and others 
-
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [HomePage](http://https://ymoded.herokuapp.com/)
 * ✉️  You can contact me at [yussifm13@gmail.com](mailto:yussifm13@gmail.com)
