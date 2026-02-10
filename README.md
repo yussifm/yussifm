@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Just writting Codes
 ------------------------
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [HomePage](http://https://ymoded.herokuapp.com/)
+* 🖥️  See my portfolio at [HomePage](https://ym-codedstudio.netlify.app/)
 * ✉️  You can contact me at [yussifm13@gmail.com](mailto:yussifm13@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love making games too
